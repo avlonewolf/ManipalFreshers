@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">All of Manipal</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="home">Home</string>
+    <string name="head1">Overview</string>
+    <string name="name">Your name</string>
+    <string name="head2">Welcome to Manipal</string>
+    <string name="info">The purpose of this app is to make your stay at MIT easier.\nWe have tried to include almost everything that you might need during your stay.\nWe\'re still in the alpha mode and so some bugs might have crept in unnoticed.\n<b>Swipe right from the left edge to view all available options</b>.\nHelp us in improving and get rewarded at KC canteen.(kidding)\n
+          </string>
+
+    <string name="profile">PROFILE</string>
+    <string name="feed">FEED</string>
+    <string name="activity">ACTIVITY</string>
+    <string name="settings">SETTINGS</string>
+
+<string name="messinfo">Timing:\n\n\tBreakfast:\n\n\tLunch:\n\n\tDinner\n\n\nCost per meal:\n\n\nLocation:\n\n\nSpeciality:\n\n\nContact no.:</string>
+    <string name="websis">Websis</string>
+    <string name="website">Manipal</string>
+    <string name="mitfiles">MIT Files</string>
+    <string name="mttn">MTTN</string>
+    <string name="techtatva">TechTatva</string>
+    <string name="revels">Revels</string>
+    <string name="student_council">Student Council</string>
+    <string name="manipal_blog">Manipal Blog</string>
+    <string name="contact">Contact us</string>
+    <string name="mutc">MUTC</string>
+    <string name="mitsportsclub">MIT Sports Club</string>
+    <string name="sis">SIS Portal</string>
+
+    <string-array name="quicklinks">
+        <item>Home</item>
+        <item>manipal.edu</item>
+        <item>Manipal Blog</item>
+        <item>mitfiles.com</item>
+        <item>MIT Sports Club</item>
+        <item>MTTN</item>
+        <item>MUTC</item>
+        <item>Revels</item>
+        <item>SIS Portal</item>
+        <item>StudentCouncil</item>
+        <item>TechTatva</item>
+        <item>Websis</item>
+        <item>Contact us</item>
+    </string-array>
+    <string-array name="menu">
+        <item>Copy</item>
+    </string-array>
+</resources>
